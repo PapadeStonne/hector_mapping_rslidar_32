@@ -1,0 +1,8 @@
+prefix=/home/zjq/VLP_ws/install
+
+Name: ob_map
+Description: Description of ob_map
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/zjq/VLP_ws/devel
+
+Name: lidar_data_tf
+Description: Description of lidar_data_tf
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

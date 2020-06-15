@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/jingtai/VLP_ws/devel/include",
+                "/opt/ros/melodic/include",
+                "/home/jingtai/VLP_ws/src/velodyne/velodyne_driver/include",
+                "/home/jingtai/VLP_ws/src/velodyne/velodyne_laserscan/include",
+                "/home/jingtai/VLP_ws/src/velodyne/velodyne_pointcloud/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,8 @@
+prefix=/home/zjq/VLP_ws/devel
+
+Name: youibot_msgs
+Description: Description of youibot_msgs
+Version: 0.7.0
+Cflags: -I/home/zjq/VLP_ws/devel/include -I/home/zjq/VLP_ws/src/youibot_msgs/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs actionlib_msgs geometry_msgs

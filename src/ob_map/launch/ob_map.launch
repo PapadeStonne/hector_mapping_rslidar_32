@@ -1,0 +1,8 @@
+<launch>
+	<node name="rviz" pkg="rviz" type="rviz" args="-d $(find ob_map)/config/lidar_test.rviz" required="true" />
+	
+	<node pkg="ob_map" type="ob_map" name="ob_map">
+		<param name="voxelfilter_leafsize" type="double" value="0.02" />	
+	</node>
+
+</launch>
